@@ -1,4 +1,4 @@
-# 💫 Hi! This is Rudro:
+# 💫 Hi! This is Rudro.
 # CSE undergradute student at BRAC University.
 Full-Stack Developer by day, Robotics & Automation tinkerer by night.<br><br>🌐 Crafting seamless UX with React & Next.js.<br><br>🛠️ Designing smart systems & automated hardware solutions.<br><br>🧠 Exploring the realms of AI/ML to build more intelligent software.<br><br>🛡️ Aspiring to bridge the gap between Automation and Cybersecurity.
 # “Turning coffee into clean code and autonomous machines.”<br><br>🔗https://rudro-portfholio.vercel.app/
