@@ -1,5 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on: Developing high-performance web applications using Next.js and exploring the intersection of software and robotics.<br><br>👯 I’m looking to collaborate on: Open-source projects involving React, Node.js, or innovative IoT and hardware-software integration. Also python based projects<br><br>🤝 I’m looking for help with: Mastering advanced system architecture and scaling cloud-native applications.<br><br>🌱 I’m currently learning: Deepening my knowledge in TypeScript and advanced robotics control systems.<br><br>💬 Ask me about: Frontend development with Tailwind CSS, UI/UX design principles, or how to bridge the gap between code and hardware.<br><br>⚡ Fun fact: I spend as much time wiring circuits as I do writing lines of code—sometimes the hardware is more stubborn than the compiler!
+# 💫 Hi! This is Rudro:
+# CSE undergradute student at BRAC University.
+Full-Stack Developer by day, Robotics & Automation tinkerer by night.<br><br>🌐 Crafting seamless UX with React & Next.js.<br><br>🛠️ Designing smart systems & automated hardware solutions.<br><br>🧠 Exploring the realms of AI/ML to build more intelligent software.<br><br>🛡️ Aspiring to bridge the gap between Automation and Cybersecurity.
+# “Turning coffee into clean code and autonomous machines.”<br><br>🔗https://rudro-portfholio.vercel.app/
 
 
 ## 🌐 Socials:
